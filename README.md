@@ -9,3 +9,4 @@ Hola! este es mi primer push a github
 4. git commit -m 'tu mensaje'
 5. git push
 6. git checkout nombre_de_tu_branch
+7. git merge nombre_del_branch_a_traer_los_cambios
