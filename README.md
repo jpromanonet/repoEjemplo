@@ -10,3 +10,4 @@ Hola! este es mi primer push a github
 5. git push
 6. git checkout nombre_de_tu_branch
 7. git merge nombre_del_branch_a_traer_los_cambios
+8. git revert SHA_ID (se copia de los commits de github)
